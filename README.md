@@ -1,9 +1,9 @@
 
 ## Biography
 
-I am Alireza Naghdi, a __Senior Front End Developer__ , and I have been working on web projects since June 2018.
+I am Alireza Naghdi, a __Front End Developer__ , and I have been working on web projects since June 2018.
 <br>
-<p align="left">🌍 Iran ( Tehran )</p>
+<p align="left">🌍 IRAN ( TEHRAN )</p>
 <p align="left">💬 Persian , English</p>
 <p align="left">🎓 Bachelor Of Software Engineering</p>
 <p align="left">🕛 Time Management</p>
@@ -88,7 +88,7 @@ I am Alireza Naghdi, a __Senior Front End Developer__ , and I have been working 
    > **Technology :** react js , javascript , redux , redux toolkit query , i18n , mui , socket io , pwa , express js , mongodb
    > <br/>
    > **Domain :** https://talkative.ir
-3. __Namagadget__
+3. __Nama Gadget__
     <br/>
    > **Goal :** A retail store application for communication between sellers and buyers along with product management and stocking
    > <br/>
@@ -120,4 +120,4 @@ I am Alireza Naghdi, a __Senior Front End Developer__ , and I have been working 
    > **Technology :** react js , javascript , redux , context api , tailwind css , asp .net core , postgresql
 5. __Portfolio__
    > **Technology :** javascript , jquery , sass
-6. َAnd much more
+6. And much more

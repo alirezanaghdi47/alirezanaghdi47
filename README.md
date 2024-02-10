@@ -1,8 +1,9 @@
 
 ## Biography
 
-I am Alireza Naghdi, a __Front End Developer__ , and I have been working on web projects since June 2018.
+I am Alireza Naghdi, a __Senior Front End Developer__ , and I have been working on web projects since June 2018.
 <br>
+<p align="left">👨‍🎓 Bachelor Of Software Engineering</p>
 <p align="left">🕛 Time Management</p>
 <p align="left">💻 Hard Working</p>
 <p align="left">🔎 Curiously</p>
@@ -63,7 +64,7 @@ I am Alireza Naghdi, a __Front End Developer__ , and I have been working on web 
 
 1. __Dev Skill__
     <br/>
-   > **Goal :** It is a programming training website that provides newbies with the necessary training to enter the job market. Along with other interesting ideas
+   > **Goal :** A programming training website that provides newbies with the necessary training to enter the job market. Along with other interesting ideas
    > <br/>
    > **Technology :** next js , typescript , tailwind css , pwa , asp .net core , postgresql
    > <br/>
@@ -106,8 +107,5 @@ I am Alireza Naghdi, a __Front End Developer__ , and I have been working on web 
    > <br/>
    > **Technology :** react js , javascript , redux , context api , tailwind css , asp .net core , postgresql
 5. __Portfolio__
-   <br/>
-   > **Goal :** Link management with traceability to increase product sales
-   > <br/>
-   > **Technology :** javascript , sass , jquery
+   > **Technology :** javascript , jquery , sass
 6. َAnd much more

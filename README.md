@@ -1,9 +1,13 @@
 
 ## Biography
 
-I am Alireza Naghdi, a software engineer in the front end, and I have been working on web projects since September 2018.
-My characteristics are good manners, curiosity, being up-to-date in my work field
-I would be enjoy if I could help others in front end projects
+I am Alireza Naghdi, a __Front End Developer__ , and I have been working on web projects since June 2018.
+<br>
+<p align="left">🕛 Time Management</p>
+<p align="left">💻 Hard Working</p>
+<p align="left">🔎 Curiously</p>
+<p align="left">📖 Knowledge Sharing</p>
+<p align="left">❤️️ Good Manners</p>
 
 ## Skills
 
@@ -64,14 +68,14 @@ I would be enjoy if I could help others in front end projects
    > **Technology :** next js , typescript , tailwind css , pwa , asp .net core , postgresql
    > <br/>
    > **Domain :** https://devskill.ir
-2. __Messenger__
+2. __Talkative__
     <br/>
    > **Goal :** A messaging app with personal and group chat in real time with a lot of ui customization
    > <br/>
    > **Technology :** react js , javascript , redux , redux toolkit query , i18n , mui , socket io , pwa , express js , mongodb
    > <br/>
    > **Domain :** https://talkative.ir
-3. __Shop__
+3. __Namagadget__
     <br/>
    > **Goal :** A retail store application for communication between sellers and buyers along with product management and stocking
    > <br/>
@@ -91,7 +95,7 @@ I would be enjoy if I could help others in front end projects
    > **Goal :** A web app for managing tasks with the ability to follow the agile mode in a simpler way than Jira
    > <br/>
    > **Technology :** react js , javascript , redux , context api , bootstrap , metronik ui template , vite js , laravel , mysql
-3. __Uploader__
+3. __Dropbox Clone__
    <br/>
    > **Goal :** Manage files in the shortest possible time
    > <br/>
@@ -101,4 +105,9 @@ I would be enjoy if I could help others in front end projects
    > **Goal :** Link management with traceability to increase product sales
    > <br/>
    > **Technology :** react js , javascript , redux , context api , tailwind css , asp .net core , postgresql
-5. َAnd much more
+5. __Portfolio__
+   <br/>
+   > **Goal :** Link management with traceability to increase product sales
+   > <br/>
+   > **Technology :** javascript , sass , jquery
+6. َAnd much more

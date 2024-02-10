@@ -3,12 +3,23 @@
 
 I am Alireza Naghdi, a __Senior Front End Developer__ , and I have been working on web projects since June 2018.
 <br>
-<p align="left">👨‍🎓 Bachelor Of Software Engineering</p>
+<p align="left">🌍 Iran ( Tehran )</p>
+<p align="left">💬 Persian , English</p>
+<p align="left">🎓 Bachelor Of Software Engineering</p>
 <p align="left">🕛 Time Management</p>
 <p align="left">💻 Hard Working</p>
-<p align="left">🔎 Curiously</p>
-<p align="left">📖 Knowledge Sharing</p>
+<p align="left">🎤 Knowledge Sharing</p>
 <p align="left">❤️️ Good Manners</p>
+
+
+## Social Media
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/alireza-naghdi-a08365176/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
 
 ## Skills
 
@@ -59,6 +70,7 @@ I am Alireza Naghdi, a __Senior Front End Developer__ , and I have been working 
   <img width="12" />
   <img src="https://static-00.iconduck.com/assets.00/adobe-xd-icon-2048x2048-n4c7t4w4.png" height="30" alt="adobe xd logo"  />
 </div>
+
 
 ## Own Projects
 

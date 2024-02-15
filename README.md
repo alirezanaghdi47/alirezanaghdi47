@@ -1,7 +1,7 @@
 
 ## Biography
 
-I am Alireza Naghdi, a __Front End Developer__ , and I have been working on web projects since June 2018.
+I am Alireza Naghdi, a __Senior Front End Developer__ , and I have been working on web projects since June 2018.
 <br>
 <p align="left">🌍 IRAN ( TEHRAN )</p>
 <p align="left">💬 Persian , English</p>

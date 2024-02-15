@@ -1,15 +1,7 @@
 
 ## Biography
 
-I am Alireza Naghdi, a __Senior Front End Developer__ , and I have been working on web projects since June 2018.
-<br>
-<p align="left">🌍 IRAN ( TEHRAN )</p>
-<p align="left">💬 Persian , English</p>
-<p align="left">🎓 Bachelor Of Software Engineering</p>
-<p align="left">🕛 Time Management</p>
-<p align="left">💻 Hard Working</p>
-<p align="left">🎤 Knowledge Sharing</p>
-<p align="left">❤️️ Good Manners</p>
+With over six years of dedicated experience in the realm of front-end development, I am a seasoned professional committed to delivering exceptional digital experiences. As a senior front-end developer, I have honed my skills in crafting intuitive user interfaces, optimizing performance, and ensuring cross-browser compatibility. My journey in web development has been marked by a passion for staying abreast of emerging technologies and methodologies, allowing me to leverage the latest tools and frameworks to drive innovation and efficiency. From concept to execution, I thrive in collaborative environments, where my expertise contributes to the realization of dynamic and impactful web solutions.
 
 
 ## Social Media

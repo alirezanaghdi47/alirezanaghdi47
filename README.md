@@ -46,8 +46,6 @@ With over six years of dedicated experience in the realm of front-end developmen
   <img width="12" />
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/pwa-icon.png" height="30" alt="pwa logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
@@ -66,21 +64,14 @@ With over six years of dedicated experience in the realm of front-end developmen
 
 ## Own Projects
 
-1. __Dev Skill__
-    <br/>
-   > **Goal :** A programming training website that provides newbies with the necessary training to enter the job market. Along with other interesting ideas
-   > <br/>
-   > **Technology :** next js , typescript , tailwind css , pwa , asp .net core , postgresql
-   > <br/>
-   > **Domain :** https://devskill.ir
-2. __Talkative__
+1. __Talkative__
     <br/>
    > **Goal :** A messaging app with personal and group chat in real time with a lot of ui customization
    > <br/>
    > **Technology :** react js , javascript , redux , redux toolkit query , i18n , mui , socket io , pwa , express js , mongodb
    > <br/>
    > **Domain :** https://talkative.ir
-3. __Nama Gadget__
+2. __Nama Gadget__
     <br/>
    > **Goal :** A retail store application for communication between sellers and buyers along with product management and stocking
    > <br/>

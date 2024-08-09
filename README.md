@@ -38,6 +38,8 @@ With over six years of dedicated experience in the realm of front-end developmen
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
   <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUivaLNXilLC9jOyzm5OeTRYhgwH8tmI0uBQ&s" height="30" alt="zustand logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
@@ -58,6 +60,8 @@ With over six years of dedicated experience in the realm of front-end developmen
   <img width="12" />
   <img src="https://static-00.iconduck.com/assets.00/file-type-nginx-icon-1793x2048-yt5u3fm7.png" height="30" alt="nginx logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
   <img src="https://static-00.iconduck.com/assets.00/adobe-xd-icon-2048x2048-n4c7t4w4.png" height="30" alt="adobe xd logo"  />
 </div>
 
@@ -68,39 +72,44 @@ With over six years of dedicated experience in the realm of front-end developmen
     <br/>
    > **Goal :** A messaging app with personal and group chat in real time with a lot of ui customization
    > <br/>
-   > **Technology :** react js , javascript , redux , redux toolkit query , i18n , mui , socket io , pwa , express js , mongodb
+   > **Technology :** react js , javascript , redux , redux toolkit query , i18n , mui , socket io , pwa , node js , express js , mongo db
    > <br/>
    > **Domain :** https://talkative.ir
 2. __Nama Gadget__
     <br/>
    > **Goal :** A retail store application for communication between sellers and buyers along with product management and stocking
    > <br/>
-   > **Technology :** next js , typescript , tailwind css , react query , express js , mongodb
+   > **Technology :** next js , typescript , tailwind css , react query , node js , express js , mongo db
    > <br/>
    > **Domain :** https://namagadget.ir
 
 ## Client Projects
 
-1. __Map News__
+1. __Hoonere__
+   <br/>
+   > **Goal :** Management of logistics and agents and things related to behind the scenes of movies and series 
+   > <br/>
+   > **Technology :** react js , typescript , zustand , react table , react query , formik , plyr , leaflet , tinymce , bootstrap
+2. __Map News__
    <br/>
    > **Goal :** Displaying news on the map and managing them with multilingual capabilities and advanced filters
    > <br/>
-   > **Technology :** react js , typescript , redux , mui , i18n , leaflet , socket io , pwa , asp .net core , postgresql
-2. __Jira Clone__
+   > **Technology :** react js , typescript , redux , mui , i18n , leaflet , socket io , pwa
+3. __Jira Clone__
    <br/>
    > **Goal :** A web app for managing tasks with the ability to follow the agile mode in a simpler way than Jira
    > <br/>
-   > **Technology :** react js , javascript , redux , context api , bootstrap , metronik ui template , vite js , laravel , mysql
-3. __Dropbox Clone__
+   > **Technology :** react js , javascript , redux , context api , bootstrap , vite js
+4. __Dropbox Clone__
    <br/>
    > **Goal :** Manage files in the shortest possible time
    > <br/>
-   > **Technology :** react js , javascript , redux , context api , tailwind css , asp .net core , postgresql
-4. __Bitly Clone__
+   > **Technology :** react js , javascript , redux , context api , tailwind css
+5. __Bitly Clone__
    <br/>
    > **Goal :** Link management with traceability to increase product sales
    > <br/>
-   > **Technology :** react js , javascript , redux , context api , tailwind css , asp .net core , postgresql
-5. __Portfolio__
+   > **Technology :** react js , javascript , redux , context api , tailwind css
+6. __Portfolio__
    > **Technology :** javascript , jquery , sass
-6. And much more
+7. And much more

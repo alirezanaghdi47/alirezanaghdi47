@@ -94,7 +94,7 @@ With over six years of dedicated experience in the realm of front-end developmen
    <br/>
    > **Goal :** Displaying news on the map and managing them with multilingual capabilities and advanced filters
    > <br/>
-   > **Technology :** react js , typescript , redux , mui , i18n , leaflet , socket io , pwa
+   > **Technology :** react js , typescript , redux , mui , i18n , leaflet
 3. __Jira Clone__
    <br/>
    > **Goal :** A web app for managing tasks with the ability to follow the agile mode in a simpler way than Jira

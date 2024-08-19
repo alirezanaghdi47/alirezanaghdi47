@@ -1,8 +1,7 @@
 
 ## Biography
 
-With over six years of dedicated experience in the realm of front-end development, I am a seasoned professional committed to delivering exceptional digital experiences. As a senior front-end developer, I have honed my skills in crafting intuitive user interfaces, optimizing performance, and ensuring cross-browser compatibility. My journey in web development has been marked by a passion for staying abreast of emerging technologies and methodologies, allowing me to leverage the latest tools and frameworks to drive innovation and efficiency. From concept to execution, I thrive in collaborative environments, where my expertise contributes to the realization of dynamic and impactful web solutions.
-
+I have 6 years of experience in front-end, especially React and Next frameworks. I am interested in to develop high performance and pixel perfect of web applications and also have experience in developing large projects with a special design system.
 
 ## Social Media
 

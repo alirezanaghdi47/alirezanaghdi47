@@ -6,8 +6,11 @@ I have 6 years of experience in front-end, especially React and Next frameworks.
 ## Social Media
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/alireza-naghdi-a08365176/" target="_blank">
+  <a href="https://www.linkedin.com/in/alireza-naghdi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://t.me/alirezanaghdi47" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=229ED9&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
 

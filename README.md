@@ -46,6 +46,8 @@ I have 6 years of experience in front-end, especially React and Next frameworks.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" height="30" alt="webpack logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="30" alt="vite logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="30" alt="socket io logo"  />
@@ -99,21 +101,21 @@ I have 6 years of experience in front-end, especially React and Next frameworks.
    > **Goal :** Displaying news on the map and managing them with multilingual capabilities and advanced filters
    > <br/>
    > **Technology :** react js , typescript , redux , mui , i18n , leaflet
-3. __Jira Clone__
+3. __Issue Tracker__
    <br/>
    > **Goal :** A web app for managing tasks with the ability to follow the agile mode in a simpler way than Jira
    > <br/>
    > **Technology :** react js , javascript , redux , context api , bootstrap , vite js
-4. __Dropbox Clone__
-   <br/>
-   > **Goal :** Manage files in the shortest possible time
-   > <br/>
-   > **Technology :** react js , javascript , redux , context api , tailwind css
-5. __Bitly Clone__
+4. __Link Tracker__
    <br/>
    > **Goal :** Link management with traceability to increase product sales
    > <br/>
    > **Technology :** react js , javascript , redux , context api , tailwind css
-6. __Portfolio__
+5. __Portfolio__
    > **Technology :** javascript , jquery , sass
+6. __Dropbox Clone__
+   <br/>
+   > **Goal :** Manage files in the shortest possible time
+   > <br/>
+   > **Technology :** react js , javascript , redux , context api , tailwind css
 7. And much more

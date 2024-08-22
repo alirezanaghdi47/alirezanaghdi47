@@ -1,16 +1,14 @@
 
 ## Biography
 
-I have 6 years of experience in front-end, especially React and Next frameworks. I am interested in to develop high performance and pixel perfect of web applications and also have experience in developing large projects with a special design system.
+With 6 years of experience and +9 successful project in front-end, especially React and Next frameworks. Able to develop high performance and 
+pixel perfect web applications and also have experience in developing large projects with a special design system.
 
 ## Social Media
 
 <div align="left">
   <a href="https://www.linkedin.com/in/alireza-naghdi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://t.me/alirezanaghdi47" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=229ED9&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
 
@@ -72,50 +70,50 @@ I have 6 years of experience in front-end, especially React and Next frameworks.
 </div>
 
 
-## Own Projects
-
-1. __Talkative__
-    <br/>
-   > **Goal :** A messaging app with personal and group chat in real time with a lot of ui customization
-   > <br/>
-   > **Technology :** react js , javascript , redux , redux toolkit query , i18n , mui , socket io , pwa , node js , express js , mongo db
-   > <br/>
-   > **Domain :** https://talkative.ir
-2. __Nama Gadget__
-    <br/>
-   > **Goal :** A retail store application for communication between sellers and buyers along with product management and stocking
-   > <br/>
-   > **Technology :** next js , typescript , tailwind css , react query , node js , express js , mongo db
-   > <br/>
-   > **Domain :** https://namagadget.ir
-
-## Client Projects
+## Last Projects
 
 1. __Hoonere__
    <br/>
-   > **Goal :** Management of logistics and agents and things related to behind the scenes of movies and series 
+   > **Goal :** Management of logistics and agents and things related to behind the scenes of movies and series.
    > <br/>
-   > **Technology :** react js , typescript , zustand , react table , react query , formik , plyr , leaflet , tinymce , bootstrap
-2. __Map News__
+   > **Technology :** react js , typescript , zustand , react table , react query , formik , plyr , leaflet , tinymce , bootstrap.
+2. __Talkative__
+    <br/>
+   > **Goal :** A messaging app with personal and group chat in real time with a lot of ui customization.
+   > <br/>
+   > **Technology :** react js , javascript , redux , redux toolkit query , i18n , mui , socket io , pwa , node js , express js , mongo db.
+   > <br/>
+   > **Domain :** https://talkative.ir
+3. __Nama Gadget__
+    <br/>
+   > **Goal :** A retail store application for communication between sellers and buyers along with product management and stocking.
+   > <br/>
+   > **Technology :** next js , typescript , tailwind css , react query , node js , express js , mongo db.
+   > <br/>
+   > **Domain :** https://namagadget.ir
+4. __Map News__
    <br/>
-   > **Goal :** Displaying news on the map and managing them with multilingual capabilities and advanced filters
+   > **Goal :** Displaying news on the map and managing them with multilingual capabilities and advanced filters.
    > <br/>
-   > **Technology :** react js , typescript , redux , mui , i18n , leaflet
-3. __Issue Tracker__
+   > **Technology :** react js , typescript , redux , mui , i18n , leaflet.
+5. __Issue Tracker__
    <br/>
-   > **Goal :** A web app for managing tasks with the ability to follow the agile mode in a simpler way than Jira
+   > **Goal :** A web app for managing tasks with the ability to follow the agile mode in a simpler way than Jira.
    > <br/>
-   > **Technology :** react js , javascript , redux , context api , bootstrap , vite js
-4. __Link Tracker__
+   > **Technology :** react js , javascript , redux , context api , bootstrap , vite js.
+6. __Link Tracker__
    <br/>
-   > **Goal :** Link management with traceability to increase product sales
+   > **Goal :** Link management with traceability to increase product sales.
    > <br/>
-   > **Technology :** react js , javascript , redux , context api , tailwind css
-5. __Portfolio__
-   > **Technology :** javascript , jquery , sass
-6. __Dropbox Clone__
+   > **Technology :** react js , javascript , redux , context api , tailwind css.
+7. __Dropbox Clone__
    <br/>
-   > **Goal :** Manage files in the shortest possible time
+   > **Goal :** Manage files in the shortest possible time.
    > <br/>
-   > **Technology :** react js , javascript , redux , context api , tailwind css
-7. And much more
+   > **Technology :** react js , javascript , redux , context api , tailwind css.
+8. __Portfolio__
+   <br/>
+   > **Goal :** A website for introducing user with projects & social media`s.
+   > <br/>
+   > **Technology :** javascript , jquery , sass.
+10. And much more

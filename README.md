@@ -1,8 +1,7 @@
 
 ## Biography
 
-With 6 years of experience and +9 successful project in front-end, especially React and Next frameworks. Able to develop high performance and 
-pixel perfect web applications and also have experience in developing large projects with a special design system.
+Over 6 years of experience and +9 successful project in front-end, especially in React and Next frameworks. Able to develop high performance and pixel perfect web applications.
 
 ## Social Media
 
@@ -74,46 +73,48 @@ pixel perfect web applications and also have experience in developing large proj
 
 1. __Hoonere__
    <br/>
-   > **Goal :** Management of logistics and agents and things related to behind the scenes of movies and series.
+   > **Summary :** A web app for Management of logistics , agents and things related to behind the scenes of movies and series.
    > <br/>
-   > **Technology :** react js , typescript , zustand , react table , react query , formik , plyr , leaflet , tinymce , bootstrap.
+   > **Technology :** React JS , Typescript , Zustand , React Table , React Query , Formik , Plyr , Leaflet , Tinymce , Bootstrap.
+   > <br/>
+   > **Domain :** https://hoonere.liara.run
 2. __Talkative__
     <br/>
-   > **Goal :** A messaging app with personal and group chat in real time with a lot of ui customization.
+   > **Summary :** A chat app with single and group chat in real time with a lot of ui customization.
    > <br/>
-   > **Technology :** react js , javascript , redux , redux toolkit query , i18n , mui , socket io , pwa , node js , express js , mongo db.
+   > **Technology :** React JS , Javascript , Redux JS , Redux Toolkit Query , I18next , Mui , Socket IO , PWA , Node JS , Express JS , Mongo DB.
    > <br/>
    > **Domain :** https://talkative.ir
 3. __Nama Gadget__
     <br/>
-   > **Goal :** A retail store application for communication between sellers and buyers along with product management and stocking.
+   > **Summary :** A retail store app for communication between sellers and buyers.
    > <br/>
-   > **Technology :** next js , typescript , tailwind css , react query , node js , express js , mongo db.
+   > **Technology :** Next JS , Typescript , Tailwind Css , React Query , Next Auth , Framer Motion , Node JS , Express JS , Mongo DB.
    > <br/>
    > **Domain :** https://namagadget.ir
 4. __Map News__
    <br/>
-   > **Goal :** Displaying news on the map and managing them with multilingual capabilities and advanced filters.
+   > **Summary :** A web app to display news on the map to achieve a better decision to manage those situations.
    > <br/>
-   > **Technology :** react js , typescript , redux , mui , i18n , leaflet.
+   > **Technology :** Next JS , Typescript , Redux JS , Mui , React Query , I18next , Leaflet.
 5. __Issue Tracker__
    <br/>
-   > **Goal :** A web app for managing tasks with the ability to follow the agile mode in a simpler way than Jira.
+   > **Summary :** A web app for managing tasks same as Trello.
    > <br/>
-   > **Technology :** react js , javascript , redux , context api , bootstrap , vite js.
+   > **Technology :** React JS , Javascript , Redux JS , React Beautiful Dnd , Full Calendar , Chart JS , Bootstrap , Vite JS.
 6. __Link Tracker__
    <br/>
-   > **Goal :** Link management with traceability to increase product sales.
+   > **Summary :** A web app for tracking links that shared in internet to increasing product sales.
    > <br/>
-   > **Technology :** react js , javascript , redux , context api , tailwind css.
+   > **Technology :** React JS , Javascript , Redux JS , Tailwind CSS.
 7. __Dropbox Clone__
    <br/>
-   > **Goal :** Manage files in the shortest possible time.
+   > **Summary :** A web app for storing files.
    > <br/>
-   > **Technology :** react js , javascript , redux , context api , tailwind css.
+   > **Technology :** React JS , Javascript , Redux JS , Tailwind CSS.
 8. __Portfolio__
    <br/>
-   > **Goal :** A website for introducing user with projects & social media`s.
+   > **Summary :** A website for introducing user with projects , social media`s , researches.
    > <br/>
-   > **Technology :** javascript , jquery , sass.
+   > **Technology :** Jquery , Javascript , Sass , Webpack.
 10. And much more

@@ -77,7 +77,7 @@ Over 6 years of experience and +9 successful project in front-end, especially in
    > <br/>
    > **Technology :** React JS , Typescript , Zustand , React Table , React Query , Formik , Plyr , Leaflet , Tinymce , Bootstrap.
    > <br/>
-   > **Domain :** https://hoonere.liara.run
+   > **Domain :** https://panel.hoonere.com
 2. __Talkative__
     <br/>
    > **Summary :** A chat app with single and group chat in real time with a lot of ui customization.

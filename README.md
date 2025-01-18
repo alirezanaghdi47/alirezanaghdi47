@@ -75,25 +75,25 @@ I am eager to learn new tech in frontend field
 
 1. __Hoonere__
    <br/>
-   > **Summary :** A web app for Management of logistics , agents and things related to behind the scenes of movies and series.
+   > **Summary :** A web app for management of logistics , agents and things related to behind the scenes of movies and series.
    > <br/>
    > **Technology :** React JS , Typescript , Zustand , React Table , React Query , Formik , Plyr , Leaflet , Tinymce , Bootstrap.
    > <br/>
-   > **Domain :** https://panel.hoonere.com
+   > **Repository :** https://github.com/alirezanaghdi47/hoonere-frontend
 2. __Talkative__
     <br/>
    > **Summary :** A chat app with single and group chat in real time with a lot of ui customization.
    > <br/>
    > **Technology :** React JS , Javascript , Redux JS , Redux Toolkit Query , I18next , Mui , Socket IO , PWA , Node JS , Express JS , Mongo DB.
    > <br/>
-   > **Domain :** https://talkative.ir
+   > **Repository :** https://github.com/alirezanaghdi47/messenger-frontend
 3. __Nama Gadget__
     <br/>
    > **Summary :** A retail store app for communication between sellers and buyers.
    > <br/>
    > **Technology :** Next JS , Typescript , Tailwind Css , React Query , Next Auth , Framer Motion , Node JS , Express JS , Mongo DB.
    > <br/>
-   > **Domain :** https://namagadget.ir
+   > **Repository :** https://github.com/alirezanaghdi47/sale-frontend
 4. __Map News__
    <br/>
    > **Summary :** A web app to display news on the map to achieve a better decision to manage those situations.

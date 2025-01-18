@@ -1,7 +1,9 @@
 
 ## Biography
 
-Over 6 years of experience and +9 successful project in front-end, especially in React and Next frameworks. Able to develop high performance and pixel perfect web applications.
+Over 6 years of developing and many successful project in front-end, especially in React and Next frameworks.
+I have experience to write clean code with SOLID principles , create reusable components and able to design small or large project from beginning.
+I am eager to learn new tech in frontend field
 
 ## Social Media
 
@@ -97,7 +99,7 @@ Over 6 years of experience and +9 successful project in front-end, especially in
    > **Summary :** A web app to display news on the map to achieve a better decision to manage those situations.
    > <br/>
    > **Technology :** Next JS , Typescript , Redux JS , Mui , React Query , I18next , Leaflet.
-5. __Issue Tracker__
+5. __Taskino__
    <br/>
    > **Summary :** A web app for managing tasks same as Trello.
    > <br/>
@@ -107,14 +109,3 @@ Over 6 years of experience and +9 successful project in front-end, especially in
    > **Summary :** A web app for tracking links that shared in internet to increasing product sales.
    > <br/>
    > **Technology :** React JS , Javascript , Redux JS , Tailwind CSS.
-7. __Dropbox Clone__
-   <br/>
-   > **Summary :** A web app for storing files.
-   > <br/>
-   > **Technology :** React JS , Javascript , Redux JS , Tailwind CSS.
-8. __Portfolio__
-   <br/>
-   > **Summary :** A website for introducing user with projects , social media`s , researches.
-   > <br/>
-   > **Technology :** Jquery , Javascript , Sass , Webpack.
-10. And much more

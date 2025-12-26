@@ -1,9 +1,11 @@
 
 ## Biography
 
-Over 6 years of developing and many successful project in front-end, especially in React and Next frameworks.
-I have experience to write clean code with SOLID principles , create reusable components and able to design small or large project from beginning.
-I am eager to learn new tech in frontend field
+I am a Senior Front-End Engineer. My craft is solving complex problems with code. I specialize in designing and building scalable technical foundations using React and Next.js—architectures built to last for years and evolve. 
+
+My approach is engineering-first: writing clean code, designing robust architecture, and creating reusable component that boost both team velocity and product quality. 
+
+My role extends beyond execution; it involves leading projects from the ground up and aligning the team with modern, best-practice architectures. For me, every line of code must be readable, maintainable, and a step forward. 
 
 ## Social Media
 
@@ -53,6 +55,8 @@ I am eager to learn new tech in frontend field
   <img width="12" />
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/pwa-icon.png" height="30" alt="pwa logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" height="30" alt="vitest logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
@@ -69,43 +73,3 @@ I am eager to learn new tech in frontend field
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
 </div>
-
-
-## Last Projects
-
-1. __Hoonere__
-   <br/>
-   > **Summary :** A web app for management of logistics , agents and things related to behind the scenes of movies and series.
-   > <br/>
-   > **Technology :** React JS , Typescript , Zustand , React Table , React Query , Formik , Plyr , Leaflet , Tinymce , Bootstrap.
-   > <br/>
-   > **Repository :** https://github.com/alirezanaghdi47/hoonere-frontend
-2. __Talkative__
-    <br/>
-   > **Summary :** A chat app with single and group chat in real time with a lot of ui customization.
-   > <br/>
-   > **Technology :** React JS , Javascript , Redux JS , Redux Toolkit Query , I18next , Mui , Socket IO , PWA , Node JS , Express JS , Mongo DB.
-   > <br/>
-   > **Repository :** https://github.com/alirezanaghdi47/messenger-frontend
-3. __Nama Gadget__
-    <br/>
-   > **Summary :** A retail store app for communication between sellers and buyers.
-   > <br/>
-   > **Technology :** Next JS , Typescript , Tailwind Css , React Query , Next Auth , Framer Motion , Node JS , Express JS , Mongo DB.
-   > <br/>
-   > **Repository :** https://github.com/alirezanaghdi47/sale-frontend
-4. __Map News__
-   <br/>
-   > **Summary :** A web app to display news on the map to achieve a better decision to manage those situations.
-   > <br/>
-   > **Technology :** Next JS , Typescript , Redux JS , Mui , React Query , I18next , Leaflet.
-5. __Taskino__
-   <br/>
-   > **Summary :** A web app for managing tasks same as Trello.
-   > <br/>
-   > **Technology :** React JS , Javascript , Redux JS , React Beautiful Dnd , Full Calendar , Chart JS , Bootstrap , Vite JS.
-6. __Link Tracker__
-   <br/>
-   > **Summary :** A web app for tracking links that shared in internet to increasing product sales.
-   > <br/>
-   > **Technology :** React JS , Javascript , Redux JS , Tailwind CSS.
